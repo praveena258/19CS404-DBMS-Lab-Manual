@@ -272,6 +272,7 @@ SELECT ProductID,ProductName,Price,Stock from Discontinued_products;
 
 <img width="904" height="233" alt="image" src="https://github.com/user-attachments/assets/4318f0fb-e903-4661-a100-02e8e106ecee" />
 
+<img width="1347" height="100" alt="image" src="https://github.com/user-attachments/assets/08257741-2763-48b1-8251-5014f7102ae2" />
 
 
 ## RESULT
